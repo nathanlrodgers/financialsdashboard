@@ -1,2 +1,0 @@
-# financialsdashboard
-NRR FreedomOps Dashboard
